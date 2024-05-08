@@ -21,7 +21,7 @@ export default async function Home({
             {query ? (
                 <SearchCardList query={query} banner />
             ) : (
-                <SearchCardList query={SITENAME.split(" ")[1]} />
+                <CardList page={page} per_page={per_page} fld_id={fld_id} />
             )}
         </div>
     );
