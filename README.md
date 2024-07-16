@@ -16,7 +16,7 @@ An SSR video streaming frontend which uses doodstream.com as a backend. It is bu
 
 ## Live Demo
 
-A live demo of the project is available at [![Netlify Status](DEMO)](https://albokep.netlify.app/)
+A live demo of the project is available at [![DEMO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-SAS-K0MFRZQgzvUsKJP3ZX0dhO3fsbB0Q&s)](https://albokep.netlify.app/)
 
 ## Configuration
 
