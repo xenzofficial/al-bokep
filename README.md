@@ -16,7 +16,7 @@ An SSR video streaming frontend which uses doodstream.com as a backend. It is bu
 
 ## Live Demo
 
-A live demo of the project is available at [https://bokepjapan.pages.dev](https://bokepjapan.pages.dev/).
+A live demo of the project is available at [![Netlify Status](https://api.netlify.com/api/v1/badges/a733b2b0-9fe0-4109-8b39-9a1372126887/deploy-status)](https://app.netlify.com/sites/albokep/deploys)
 
 ## Configuration
 
